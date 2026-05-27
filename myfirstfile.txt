@@ -1,1 +1,7 @@
 This file is for Programming Homework
+
+
+My comments:
+print(p2.__str__())  is unnecessary if you have written the __str__() function, it is the same as print(p2) 😊 
+In the task where you created Animals, the „Explain your choice” is missing.
+The others are good, thank you for your work! 
